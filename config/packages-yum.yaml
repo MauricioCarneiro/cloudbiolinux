@@ -127,8 +127,6 @@ perl:
   - perl-core
 java:
   - ant
-  - ant-junit
-  - ant-nodeps
   - java-1.7.0-openjdk
   - java-1.7.0-openjdk-devel
   - junit4
